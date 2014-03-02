@@ -1,7 +1,5 @@
 package main
-//ben
 import "fmt"
-
 func main() {
 
     // var declars 1 or more variables.
@@ -9,7 +7,8 @@ func main() {
     fmt.Println(a)
 
     // You can declare multiple variables at once.
-    var a, b int = 1, 2
+    var c, b int = 1, 2
+    fmt.Println(b,c)
 
     // go will infer the type of initialized variables.
     var d = true
@@ -22,7 +21,5 @@ func main() {
     // := is shorthand for declaring and initalizing a variable.
     f := "short"
     fmt.Println(f)
-//tes
-//testing
 }
 
