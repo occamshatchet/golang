@@ -1,7 +1,5 @@
 package main
-package main
-package main
-
+//ben
 import "fmt"
 
 func main() {
