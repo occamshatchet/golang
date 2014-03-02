@@ -4,7 +4,7 @@ import "fmt"
 import "math"
 
 //const declares a constant value.
-const s string = "constant"
+var s string = "constant"
 
 func main() {
     fmt.Println(s)
